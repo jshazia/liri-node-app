@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+.env
+.idea/liri-node-app.iml
+.idea/modules.xml
+.idea/workspace.xml
+ .idea/vcs.xml
